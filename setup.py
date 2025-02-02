@@ -9,7 +9,7 @@ setup(
     description="Une structure Flask inspirée de Laravel",  # Description courte
     author="Pierre AHOBLE",
     author_email="pierreahoble@gmail.com",
-    url="https://github.com/tonrepo/lara-flask",  # 🔥 Lien vers ton repo GitHub
+    url="https://github.com/ahoblepierre/lara-flask",  # 🔥 Lien vers ton repo GitHub
     packages=find_packages(),  # 🔥 Inclut automatiquement tous les modules Python
     include_package_data=True,  # 🔥 Permet d'inclure les fichiers statiques / templates
     install_requires=requirements,  # 🔥 Liste des dépendances
