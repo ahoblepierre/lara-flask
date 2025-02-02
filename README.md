@@ -116,7 +116,9 @@ Ce projet est sous licence **MIT**, vous pouvez l'utiliser et le modifier librem
 ## 💡 Contribuer
 Tu veux améliorer Lara-Flask ? Forke le repo et propose une Pull Request ! 🚀  
 
-📩 **Contact** : [Ton email ou lien GitHub]  
+📩 **Contact** : [Pierre AHOBLE]  
+
+📩 **Profil** : [[Pierre AHOBLE](https://github.com/ahoblepierre)] 
 
 ---
 
