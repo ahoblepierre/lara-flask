@@ -4,7 +4,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="lara-flask",  # 🔥 Nom de ton package (ce que les autres installeront)
+    name="flask-lara-app",  # 🔥 Nom de ton package (ce que les autres installeront)
     version="1.0.0",  # 🔥 Version de ton package
     description="Une structure Flask inspirée de Laravel",  # Description courte
     author="Pierre AHOBLE",
